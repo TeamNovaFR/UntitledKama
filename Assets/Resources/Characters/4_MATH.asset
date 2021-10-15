@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa571b6b23d02094c8034f89d5ff178d, type: 3}
+  m_Name: 4_MATH
+  m_EditorClassIdentifier: 
+  id: 4
+  characterName: Math
+  life: 20
+  characterClass: {fileID: 11400000, guid: ca57518b4d0c3704486bb40a2cb8300a, type: 2}
+  baseItems:
+  - {fileID: 11400000, guid: 982171fe0cb054f4e8aad80528554f5f, type: 2}
+  baseSpells:
+  - {fileID: 11400000, guid: c7272e08ada818b4eacd969fcc897827, type: 2}
+  - {fileID: 11400000, guid: 4742773095bbad041841228e23c862cd, type: 2}
+  - {fileID: 11400000, guid: d4714b893d1a0974399fa86dbc46a79f, type: 2}
+  jsonRepresentation: '{"id":4,"characterName":"Math","life":20,"characterClass":{"instanceID":19954},"baseItems":[],"baseSpells":[{"instanceID":19962},{"instanceID":-44484}],"jsonRepresentation":"{\"id\":4,\"characterName\":\"Math\",\"life\":20,\"characterClass\":{\"instanceID\":-51676},\"baseItems\":[{\"instanceID\":-181296},{\"instanceID\":-181296}],\"baseSpells\":[],\"jsonRepresentation\":\"{\\\"id\\\":4,\\\"characterName\\\":\\\"Math
+    Le zbeul\\\",\\\"life\\\":20,\\\"characterClass\\\":{\\\"instanceID\\\":-51676},\\\"baseItems\\\":[{\\\"instanceID\\\":-181296},{\\\"instanceID\\\":-181296}],\\\"baseSpells\\\":[],\\\"jsonRepresentation\\\":\\\"{\\\\\\\"id\\\\\\\":4,\\\\\\\"characterName\\\\\\\":\\\\\\\"Math\\\\\\\",\\\\\\\"life\\\\\\\":20,\\\\\\\"characterClass\\\\\\\":{\\\\\\\"instanceID\\\\\\\":-51676},\\\\\\\"baseItems\\\\\\\":[],\\\\\\\"baseSpells\\\\\\\":[],\\\\\\\"jsonRepresentation\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"id\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"characterName\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"Math\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"life\\\\\\\\\\\\\\\":10,\\\\\\\\\\\\\\\"characterClass\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"instanceID\\\\\\\\\\\\\\\":-51676},\\\\\\\\\\\\\\\"baseItems\\\\\\\\\\\\\\\":[],\\\\\\\\\\\\\\\"baseSpells\\\\\\\\\\\\\\\":[],\\\\\\\\\\\\\\\"jsonRepresentation\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"}\\\\\\\"}\\\"}\"}"}'

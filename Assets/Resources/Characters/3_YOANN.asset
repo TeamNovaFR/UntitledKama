@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa571b6b23d02094c8034f89d5ff178d, type: 3}
+  m_Name: 3_YOANN
+  m_EditorClassIdentifier: 
+  id: 3
+  characterName: Yoann
+  life: 10
+  characterClass: {fileID: 11400000, guid: 3067a92318ba81741b22826b86ad269c, type: 2}
+  baseItems:
+  - {fileID: 11400000, guid: 3d093453b62dd9642aa4ae8f466b2818, type: 2}
+  baseSpells:
+  - {fileID: 11400000, guid: b98412578fbcccf46a18ec5d9f5cc96f, type: 2}
+  - {fileID: 11400000, guid: 4742773095bbad041841228e23c862cd, type: 2}
+  - {fileID: 11400000, guid: d4714b893d1a0974399fa86dbc46a79f, type: 2}
+  jsonRepresentation: '{"id":3,"characterName":"Yoann","life":10,"characterClass":{"instanceID":19950},"baseItems":[],"baseSpells":[{"instanceID":-44340},{"instanceID":-44484}],"jsonRepresentation":"{\"id\":3,\"characterName\":\"Yoann\",\"life\":10,\"characterClass\":{\"instanceID\":-48334},\"baseItems\":[],\"baseSpells\":[],\"jsonRepresentation\":\"\"}"}'
